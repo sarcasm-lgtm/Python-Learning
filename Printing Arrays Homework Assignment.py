@@ -25,12 +25,3 @@ print("The Array is : ")
 for i in arr:
     print(i, end = ' ')
     
-#I tried customizing it
-#(to fit the thing that we were doing)
-#but it printed the same thing.
-#It printed this:
-#['Ahana', 'is', 'my', 'sister']
-#Ahana is my sister . Noice, right?
-#The Array is : 
-#2 4 5 7 9 The Array is : 
-#2 4 5 7 9 
